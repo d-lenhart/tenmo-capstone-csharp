@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3901wBlVXc+0JURwyAmusWu8Ci6z6erzwc2wQhm6E1A0DxI9T6Ot7PUGz/BRaUhVFjbD94tPuTxSkyYnIABCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dane\\Repos\\tenmo-capstone-csharp\\capstone\\TenmoClient\\TenmoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dane\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\Dane\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Dane\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Dane\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Dane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
